@@ -1,0 +1,7 @@
+2026/05/09-11:57:52.307 7894 Reusing MANIFEST C:\Users\fajla\Documents\MiniVpn\WebView_Data\EBWebView\Default\IndexedDB\https_www.maariv.co.il_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/09-11:57:52.308 7894 Recovering log #4
+2026/05/09-11:57:52.308 7894 Reusing old log C:\Users\fajla\Documents\MiniVpn\WebView_Data\EBWebView\Default\IndexedDB\https_www.maariv.co.il_0.indexeddb.leveldb/000004.log 
+2026/05/09-11:57:52.621 1c8c Level-0 table #8: started
+2026/05/09-11:57:52.641 1c8c Level-0 table #8: 2394 bytes OK
+2026/05/09-11:57:52.642 1c8c Delete type=0 #4
+2026/05/09-11:57:52.643 7894 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

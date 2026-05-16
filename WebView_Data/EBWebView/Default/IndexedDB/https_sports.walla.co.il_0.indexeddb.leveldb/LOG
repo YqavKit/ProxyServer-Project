@@ -1,0 +1,6 @@
+2026/04/29-11:04:28.596 1fbc Creating DB C:\Users\fajla\Documents\MiniVpn\WebView_Data\EBWebView\Default\IndexedDB\https_sports.walla.co.il_0.indexeddb.leveldb since it was missing.
+2026/04/29-11:04:28.611 1fbc Reusing MANIFEST C:\Users\fajla\Documents\MiniVpn\WebView_Data\EBWebView\Default\IndexedDB\https_sports.walla.co.il_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/29-11:04:28.632 30d0 Level-0 table #5: started
+2026/04/29-11:04:28.635 30d0 Level-0 table #5: 677 bytes OK
+2026/04/29-11:04:28.637 30d0 Delete type=0 #3
+2026/04/29-11:04:28.638 1fbc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

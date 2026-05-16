@@ -1,0 +1,8 @@
+2026/04/03-21:07:32.313 58fc Creating DB C:\Users\fajla\Documents\MiniVpn\WebView_Data\EBWebView\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb since it was missing.
+2026/04/03-21:07:32.318 58fc Reusing MANIFEST C:\Users\fajla\Documents\MiniVpn\WebView_Data\EBWebView\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/03-21:07:32.329 63e8 Level-0 table #5: started
+2026/04/03-21:07:32.331 63e8 Level-0 table #5: 1302 bytes OK
+2026/04/03-21:07:32.333 63e8 Delete type=0 #3
+2026/04/03-21:07:32.333 5300 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/03-21:07:32.336 63e8 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/03-21:07:32.340 63e8 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

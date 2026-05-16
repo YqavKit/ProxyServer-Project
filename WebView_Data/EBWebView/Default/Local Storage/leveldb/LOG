@@ -1,0 +1,6 @@
+2026/05/16-17:04:19.031 3bdc Reusing MANIFEST C:\Users\fajla\Documents\ProxyServer\WebView_Data\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/16-17:04:19.036 3bdc Recovering log #444
+2026/05/16-17:04:19.038 3bdc Reusing old log C:\Users\fajla\Documents\ProxyServer\WebView_Data\EBWebView\Default\Local Storage\leveldb/000444.log 
+2026/05/16-17:05:19.060 62a8 Level-0 table #448: started
+2026/05/16-17:05:19.092 62a8 Level-0 table #448: 693703 bytes OK
+2026/05/16-17:05:19.097 62a8 Delete type=0 #444

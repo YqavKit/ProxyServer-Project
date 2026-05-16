@@ -1,0 +1,6 @@
+2026/04/28-10:40:42.784 1918 Creating DB C:\Users\fajla\Documents\MiniVpn\WebView_Data\EBWebView\Default\IndexedDB\https_www.crazygames.com_0.indexeddb.leveldb since it was missing.
+2026/04/28-10:40:42.792 1918 Reusing MANIFEST C:\Users\fajla\Documents\MiniVpn\WebView_Data\EBWebView\Default\IndexedDB\https_www.crazygames.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/28-10:40:42.803 3dc8 Level-0 table #5: started
+2026/04/28-10:40:42.806 3dc8 Level-0 table #5: 771 bytes OK
+2026/04/28-10:40:42.808 3dc8 Delete type=0 #3
+2026/04/28-10:40:42.808 1918 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
