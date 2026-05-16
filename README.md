@@ -24,19 +24,7 @@ A high-performance, multi-threaded secure tunneling application implemented in *
 
 ---
 
-## 📁 Repository Structure
 
-```text
-├── Server/
-│   ├── server.c             # Multi-threaded backend server & firewall logic
-│   └── users.db             # Dynamic user database (Generated at runtime)
-│
-├── Client/
-│   ├── client.c             # Win32 Native UI & Main Window Loop
-│   ├── proxy_client.c       # Background SOCKS5 proxy thread logic
-│   └── webview_handler.cc   # Embedded Microsoft WebView2 browser initialization
-│
-└── .gitignore               # Excludes keys, certificates, binaries, and build files
 
 to generate key and certificate to run the server run the following command in powershell/terminal:
 openssl req -x509 -nodes -newkey rsa:4096 -keyout private.key -out certificate.crt -sha256 -days 365
