@@ -20,6 +20,7 @@ A high-performance, multi-threaded secure tunneling application implemented in *
 * **Dependencies:**
     * `Winsock2` (Windows Sockets API)
     * `OpenSSL SDK` (v3.x or v1.1.x)
+    * 'Sqlite3' ()
     * `Microsoft.Web.WebView2` (Installed via NuGet Package Manager)
 
 ---

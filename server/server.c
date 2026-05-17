@@ -4,9 +4,9 @@
 #include <WinSock2.h>
 #include <windows.h>
 #include <WS2tcpip.h>
-#include "./common.h"
-#include "./include/err.h"
-#include "./include/ssl.h"
+#include "../common.h"
+#include "../include/err.h"
+#include "../include/ssl.h"
 #include <io.h>
 #include <time.h>
 

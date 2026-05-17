@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "common.h"
+#include "../common.h"
 
 // from client.c
 int client_login(const char *username, const char *hash);
