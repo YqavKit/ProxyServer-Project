@@ -1,2 +1,3 @@
-2026/05/17-17:24:57.977 295c Creating DB C:\Users\fajla\Documents\ProxyServer\client\WebView_Data\EBWebView\Default\Service Worker\Database since it was missing.
-2026/05/17-17:24:57.986 295c Reusing MANIFEST C:\Users\fajla\Documents\ProxyServer\client\WebView_Data\EBWebView\Default\Service Worker\Database/MANIFEST-000001
+2026/05/18-10:39:49.393 af8 Reusing MANIFEST C:\Users\fajla\Documents\ProxyServer\client\WebView_Data\EBWebView\Default\Service Worker\Database/MANIFEST-000001
+2026/05/18-10:39:49.395 af8 Recovering log #3
+2026/05/18-10:39:49.395 af8 Reusing old log C:\Users\fajla\Documents\ProxyServer\client\WebView_Data\EBWebView\Default\Service Worker\Database/000003.log 

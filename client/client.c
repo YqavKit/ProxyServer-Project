@@ -495,7 +495,7 @@ int start_proxy_threads() {
 }
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd) {
-    if (init_client_tls("54.89.54.98", 8080) != 0) { 
+    if (init_client_tls("10.0.0.8", 8080) != 0) { 
         MessageBoxA(NULL, "Could not connect to Server", "Connection Error", MB_ICONERROR);
         return -1;
     }

@@ -1,3 +1,9 @@
-2026/05/17-16:54:34.550 3bb0 Reusing MANIFEST C:\Users\fajla\Documents\ProxyServer\client\WebView_Data\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/17-16:54:34.566 3bb0 Recovering log #3
-2026/05/17-16:54:34.569 3bb0 Reusing old log C:\Users\fajla\Documents\ProxyServer\client\WebView_Data\EBWebView\Default\Local Storage\leveldb/000003.log 
+2026/05/17-17:22:21.157 7ab4 Reusing MANIFEST C:\Users\fajla\Documents\ProxyServer\client\WebView_Data\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/17-17:22:21.206 7ab4 Recovering log #3
+2026/05/17-17:22:21.209 7ab4 Reusing old log C:\Users\fajla\Documents\ProxyServer\client\WebView_Data\EBWebView\Default\Local Storage\leveldb/000003.log 
+2026/05/17-17:25:32.253 83d0 Level-0 table #5: started
+2026/05/17-17:25:32.259 83d0 Level-0 table #5: 46325 bytes OK
+2026/05/17-17:25:32.262 83d0 Delete type=0 #3
+2026/05/17-17:28:25.754 83d0 Level-0 table #7: started
+2026/05/17-17:28:25.764 83d0 Level-0 table #7: 36515 bytes OK
+2026/05/17-17:28:25.768 83d0 Delete type=0 #4
